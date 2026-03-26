@@ -1,3 +1,7 @@
+[![Install on ClawHub](https://img.shields.io/badge/ClawHub-Install%20Now-orange?style=flat-square)](https://clawhub.ai/skill/kaomoji-spirit)
+[![Version](https://img.shields.io/badge/version-v1.2.3-green?style=flat-square)](https://github.com/redwakame/openclaw-kaomoji-skill/releases/tag/v1.2.3)
+[![License: MIT-0](https://img.shields.io/badge/license-MIT--0-lightgrey?style=flat-square)](https://spdx.org/licenses/MIT-0.html)
+
 # Kaomoji Skill for OpenClaw
 
 A kaomoji recommendation skill for OpenClaw that suggests expressive emoticons based on tone, mood, and conversational context.
